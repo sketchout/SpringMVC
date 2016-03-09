@@ -1,3 +1,3 @@
 # SpringMVC
 
-This project is a MVC framework.
+This project is a Spring MVC framework.
